@@ -1,7 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bert</h1>
 <h3 align="center">A passionate System Engineer trying to make automation work.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/UUcK.gif">
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cavanite&label=Profile%20views&color=0e75b6&style=flat" alt="cavanite" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cavanite" alt="cavanite" /></a> </p>
