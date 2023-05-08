@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bert</h1>
 <h3 align="center">A passionate System Engineer trying to make automation work.</h3>
 
-
+![Alt text](https://cdn.dribbble.com/users/207059/screenshots/2354622/androidtipsspacepanoramadribbble.gif)
 
 
 
