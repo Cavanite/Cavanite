@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cavanite" alt="cavanite" /></a> </p>
 
-- 🌱 I’m currently learning **Phyton and Terraform**
+- 🌱 I’m currently learning **Python and Terraform**
 
 - 👯 I’m looking to collaborate on **PowerShell and Terraform**
 
