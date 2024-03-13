@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cavanite" alt="cavanite" /></a> </p>
 
-- 🌱 I’m currently learning **Python and Terraform**
+- 🌱 I’m currently learning **Python and Microsoft Graph API**
 
-- 👯 I’m looking to collaborate on **PowerShell and Terraform**
+- 👯 I’m looking to collaborate on **PowerShell and Microsoft Graph API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cavanite/](https://github.com/Cavanite?tab=repositories)
 
