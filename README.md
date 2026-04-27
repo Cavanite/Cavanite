@@ -23,7 +23,7 @@
 > System Engineer with a focus on making automation actually work — one script at a time.
 
 - 🔧 Building and automating Microsoft cloud environments
-- 🌱 Currently leveling up in **Python** and **Microsoft Graph API**
+- 🌱 Currently leveling up in **React** and **Microsoft Graph API**
 - 🤝 Open to collaborate on **PowerShell** and **Microsoft Graph API** projects
 - 📁 All my projects: [github.com/Cavanite](https://github.com/Cavanite?tab=repositories)
 - 📫 Reach me at **bertdezeeuw@live.nl**
@@ -34,7 +34,7 @@
 
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
@@ -52,16 +52,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=cavanite&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=cavanite&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 
 </div>
 
