@@ -1,26 +1,74 @@
-<h1 align="center">Hi 👋, I'm Bert</h1>
-<h3 align="center">A passionate System Engineer trying to make automation work.</h3>
+<div align="center">
 
-![Alt text](https://i.pinimg.com/originals/c4/c8/e4/c4c8e41e545bc0a6f6a5fa255194ff26.gif)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Bert+%F0%9F%91%8B;System+Engineer+%7C+Automation+Enthusiast;PowerShell+%E2%80%A2+Azure+%E2%80%A2+Microsoft+Graph+API" alt="Typing SVG" />
 
+<br/>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cavanite&label=Profile%20views&color=0e75b6&style=flat" alt="cavanite" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cavanite" alt="cavanite" /></a> </p>
-
-- 🌱 I’m currently learning **Python and Microsoft Graph API**
-
-- 👯 I’m looking to collaborate on **PowerShell and Microsoft Graph API**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Cavanite/](https://github.com/Cavanite?tab=repositories)
-
-- 📫 How to reach me **bertdezeeuw@live.nl**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bert-de-zeeuw-6b5291125/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bert-de-zeeuw-6b5291125/" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=cavanite&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/bert-de-zeeuw-6b5291125/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bertdezeeuw@live.nl">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" alt="powershell" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+> System Engineer with a focus on making automation actually work — one script at a time.
+
+- 🔧 Building and automating Microsoft cloud environments
+- 🌱 Currently leveling up in **Python** and **Microsoft Graph API**
+- 🤝 Open to collaborate on **PowerShell** and **Microsoft Graph API** projects
+- 📁 All my projects: [github.com/Cavanite](https://github.com/Cavanite?tab=repositories)
+- 📫 Reach me at **bertdezeeuw@live.nl**
+
+---
+
+## 🛠️ Tech Stack
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cavanite&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavanite&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=cavanite&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=cavanite&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Automate the boring stuff — then automate the automation."*
+
+</div>
